@@ -1,0 +1,33 @@
+2023-07-12 16-36-01: batch_size: 1024 device: cpu embedSize: 64 gcn_layers: 2 lr: 0.001 n_epochs: 30 ratio: 0.8
+2023-07-12 16-36-20: Epoch0:trainLoss1.0771,testLoss1.0993
+2023-07-12 16-36-42: Epoch1:trainLoss1.0339,testLoss1.0277
+2023-07-12 16-37-01: Epoch2:trainLoss1.0029,testLoss0.9977
+2023-07-12 16-37-21: Epoch3:trainLoss0.9832,testLoss0.9895
+2023-07-12 16-37-43: Epoch4:trainLoss0.9812,testLoss0.9949
+2023-07-12 16-38-03: Epoch5:trainLoss0.9098,testLoss0.9968
+2023-07-12 16-38-23: Epoch6:trainLoss0.9443,testLoss0.9646
+2023-07-12 16-38-42: Epoch7:trainLoss0.9590,testLoss0.9654
+2023-07-12 16-39-01: Epoch8:trainLoss0.9550,testLoss0.9606
+2023-07-12 16-39-21: Epoch9:trainLoss0.9744,testLoss0.9633
+2023-07-12 16-39-41: Epoch10:trainLoss0.9483,testLoss0.9578
+2023-07-12 16-40-02: Epoch11:trainLoss0.9446,testLoss0.9568
+2023-07-12 16-40-22: Epoch12:trainLoss0.9493,testLoss0.9566
+2023-07-12 16-40-42: Epoch13:trainLoss0.9321,testLoss0.9498
+2023-07-12 16-41-01: Epoch14:trainLoss0.9538,testLoss0.9514
+2023-07-12 16-41-21: Epoch15:trainLoss0.9414,testLoss0.9527
+2023-07-12 16-41-41: Epoch16:trainLoss0.9129,testLoss0.9457
+2023-07-12 16-42-00: Epoch17:trainLoss0.8714,testLoss0.9457
+2023-07-12 16-42-20: Epoch18:trainLoss0.9439,testLoss0.9432
+2023-07-12 16-42-42: Epoch19:trainLoss0.9363,testLoss0.9441
+2023-07-12 16-43-02: Epoch20:trainLoss0.9286,testLoss0.9416
+2023-07-12 16-43-22: Epoch21:trainLoss0.9079,testLoss0.9446
+2023-07-12 16-43-40: Epoch22:trainLoss0.9082,testLoss0.9403
+2023-07-12 16-43-58: Epoch23:trainLoss0.9400,testLoss0.9548
+2023-07-12 16-44-17: Epoch24:trainLoss0.9062,testLoss0.9366
+2023-07-12 16-44-35: Epoch25:trainLoss0.9245,testLoss0.9363
+2023-07-12 16-44-52: Epoch26:trainLoss0.9130,testLoss0.9366
+2023-07-12 16-45-10: Epoch27:trainLoss0.9342,testLoss0.9305
+2023-07-12 16-45-28: Epoch28:trainLoss0.8635,testLoss0.9368
+2023-07-12 16-45-48: Epoch29:trainLoss0.9192,testLoss0.9269
+2023-07-12 16-45-48: Epoch 28: bestTrainLoss 0.8635
+2023-07-12 16-45-48: Epoch 29: bestTestLoss 0.9269
